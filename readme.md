@@ -24,4 +24,4 @@ Clone the repository.
 Open the index.html file in a web browser.
 Enjoy the cute dog images as they automatically transition every 2 seconds.
 
-DEMO:
+DEMO: heloo
